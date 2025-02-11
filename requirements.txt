@@ -1,0 +1,15 @@
+adjustText
+click
+json5
+matplotlib
+pandas
+progressbar
+pyamosa
+scipy
+seaborn
+tabulate
+tensorflow_intel
+tflite
+tqdm
+yellowbrick
+`tensorflow[and-cuda]'
