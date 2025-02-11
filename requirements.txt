@@ -12,4 +12,5 @@ tensorflow_intel
 tflite
 tqdm
 yellowbrick
-`tensorflow[and-cuda]'
+tensorflow[and-cuda]
+
